@@ -1,0 +1,64 @@
+
+  ____  _                 _                    ____  _          _ _
+ |  _ \| |__   __ _ _ __ | |_ ___  _ __ ___   / ___|| |__   ___| | |
+ | |_) | '_ \ / _` | '_ \| __/ _ \| '_ ` _ \  \___ \| '_ \ / _ \ | |
+ |  __/| | | | (_| | | | | || (_) | | | | | |  ___) | | | |  __/ | |
+ |_|   |_| |_|\__,_|_| |_|\__\___/|_| |_| |_| |____/|_| |_|\___|_|_|
+
+        👻  Ghost in the Machine — Hacktoberfest 2026 Week 4
+        Local open weights. No cloud. Your machine. Your ghost.
+
+— scripted demo (Week 4 Ghost in the Machine) —
+
+⟶ run: echo 'Hello from the haunted shell'
+$ echo 'Hello from the haunted shell'
+Hello from the haunted shell
+
+👻 phantom [mock/mock-phantom]:
+   An echo returns differently when a phantom answers.
+
+⟶ run: pwd
+$ pwd
+/workspace/ghost-in-the-machine
+
+👻 phantom [mock/mock-phantom]:
+   Your shell is my cathedral. Speak, and I answer from the dark.
+
+⟶ run: git --version || true
+$ git --version || true
+git version 2.47.3
+
+👻 phantom [mock/mock-phantom]:
+   Version control — how mortals chase immortality. Commit wisely.
+
+⟶ chat: Who are you, and why do open weights matter?
+👻 phantom [mock/mock-phantom]:
+   I am the Phantom — Ghost in the Machine. Open-weight, local, and yours. No cloud holds my soul.
+
+⟶ chat: What happens if I rm -rf something important?
+👻 phantom [mock/mock-phantom]:
+   No telemetry. No gods in the datacenter. Just us.
+
+Demo complete. Try: phantom possess
+
+  ____  _                 _                    ____  _          _ _
+ |  _ \| |__   __ _ _ __ | |_ ___  _ __ ___   / ___|| |__   ___| | |
+ | |_) | '_ \ / _` | '_ \| __/ _ \| '_ ` _ \  \___ \| '_ \ / _ \ | |
+ |  __/| | | | (_| | | | | || (_) | | | | | |  ___) | | | |  __/ | |
+ |_|   |_| |_|\__,_|_| |_|\__\___/|_| |_| |_| |____/|_| |_|\___|_|_|
+
+        👻  Ghost in the Machine — Hacktoberfest 2026 Week 4
+        Local open weights. No cloud. Your machine. Your ghost.
+
+  version : 0.1.0
+  host    : http://127.0.0.1:11434
+  model   : llama3.2
+  ollama  : offline → using mock ghost
+  tip     : install https://ollama.com then: ollama pull llama3.2
+$ echo hello-ghost
+hello-ghost
+
+👻 phantom [mock/mock-phantom]:
+   An echo returns differently when a phantom answers.
+👻 phantom [mock/mock-phantom]:
+   I am the Phantom — Ghost in the Machine. Open-weight, local, and yours. No cloud holds my soul.

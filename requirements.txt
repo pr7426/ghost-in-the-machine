@@ -1,0 +1,3 @@
+# Phantom Shell — no hard deps; stdlib only for core.
+# Optional nicer TUI:
+# rich>=13.0.0
